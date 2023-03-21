@@ -42,6 +42,7 @@ npm run start
 ```
 ## 效果图
 
+![image](https://user-images.githubusercontent.com/73346342/226633828-f7d9c060-3bd1-4e6c-bbd9-9309ad9008bd.png)
 
 
 
