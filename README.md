@@ -3,11 +3,11 @@
 
 ## 前端 Vue 3 + TypeScript + Vite
 
-前端使用Vue 3.2 的 setup 语法糖 + TypeScript 进行组件的编写
+前端使用Vite进行项目构建，使用vue的版本为3.2 使用TypeScript 进行组件的编写，网络请求使用了axios,组件库使用了antd vue.
 
 ## 后端 Koa2 + Mysql
 
-后端使用koa2 + mysql进行开发，使用ts，其中ORM 库使用 TypeORM
+后端使用koa2框架 + TypeScript进行开发，数据库使用了Mysql,其中ORM 库使用 TypeORM.
 
 ## 项目上手
 
